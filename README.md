@@ -18,6 +18,8 @@
 3.matplotlib.pyplot (pyplot은 matplotlib안에 있는 sub-module이므로 ``` pip install matplotlib ``` 로 install)      
 사용된 버전: 3.8.0
 
+---
+
 ### 실행 방법
 1. **이미지를 HSV 색상 공간으로 변환:**  
    입력 이미지를 BGR에서 HSV로 변환하여 색상 기반 분할을 간소화합니다.
