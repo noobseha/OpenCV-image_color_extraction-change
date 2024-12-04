@@ -9,14 +9,13 @@
 
 ### 사용한 패키지 및 버전
 ***   
-1.openCV2 (install 필요, python 에서 작동하므로 ``` pip install opencv-python ```로 작성필요)   
+1.openCV2 (install 필요, python 에서 작동하므로 ``` pip install opencv-python ```로 작성필요)      
 사용된 버전:4.10.0
 
-2.numpy (install 불필요)   
+2.numpy (install 불필요)      
 사용된 버전:1.26.4
 
-3.matplotlib.pyplot   
-(pyplot는 matplotlib안에 있는 sub-module이므로 ``` pip install matplotlib ``` 로 install)   
+3.matplotlib.pyplot (pyplot은 matplotlib안에 있는 sub-module이므로 ``` pip install matplotlib ``` 로 install)      
 사용된 버전: 3.8.0
 
 ### 실행 방법
