@@ -8,7 +8,7 @@
 
 
 
-###**Limitations**
+### **Limitations**
 
 1. Color Dependence: 
    - The technique relies heavily on accurate HSV range selection. Variations in lighting, shadows, or similar colors can lead to incorrect segmentation.  
