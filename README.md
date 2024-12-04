@@ -9,6 +9,7 @@
 
 ### 사용한 패키지 및 버전
 ***
+
 1. openCV2 (install 필요, python 에서 작동하므로 ``` pip install opencv-python ```로 작성필요)
 사용된 버전:4.10.0
 
@@ -19,6 +20,7 @@
 (pyplot는 matplotlib안에 있는 sub-module이라 
 pip install matplotlib로 install)
 사용된 버전: 3.8.0
+
 ### 실행 방법
 ***
 
