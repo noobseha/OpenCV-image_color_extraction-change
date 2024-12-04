@@ -8,13 +8,12 @@
 
 
 
-### **Limitations**
+### 한계  
+1. **색상 의존성:**  
+   - 이 기술은 HSV 범위 선택에 크게 의존하므로 조명, 그림자, 유사한 색상으로 인해 색상이 정확히 추출되지 않을 가능성이 있습니다.  
 
-1. Color Dependence: 
-   - The technique relies heavily on accurate HSV range selection. Variations in lighting, shadows, or similar colors can lead to incorrect segmentation.  
+2. **이미지 품질의 영향:**  
+   - 조명이 어둡거나 해상도가 낮은 이미지, 또는 노이즈가 많은 경우 색상 추출 정확도가 떨어질 수 있습니다.  
 
-2. Sensitivity to Image Quality:  
-   - Poor lighting, low resolution, or noise in the image may reduce the accuracy of color extraction and result in incomplete or inaccurate regions.  
-
-3. **Fixed Thresholds:**  
-   - Manually defined HSV thresholds might not generalize well across different images or environments. Fine-tuning is required for each use case.  
+3. **고정된 임계값:**  
+   - 수동으로 설정한 HSV 범위는 이미지나 환경에 따라 유연하게 적용되지 않을 수 있어, 각 사례마다 범위를 미세하게 조정해야 할 필요가 있습니다.  
