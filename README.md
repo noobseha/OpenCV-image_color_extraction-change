@@ -15,7 +15,7 @@
 ![](https://ifh.cc/g/27HcM0.png)
 ***
 ### 사용한 패키지 및 버전
-***   
+
 1.openCV2 (install 필요, python 에서 작동하므로 ``` pip install opencv-python ```로 작성필요)      
 사용된 버전:4.10.0
 
