@@ -5,6 +5,11 @@
 
 ### 예시 이미지
 ***
+순서대로
+1. 원본 이미지
+2. 옷과 배경을 추출한 이미지
+3. 추출한 이미지의 색상을 바꿔 원본에 적용한 이미지
+
 ![](https://ifh.cc/g/SLBnF4.png)
 ![](https://ifh.cc/g/sdfbzR.png)
 ![](https://ifh.cc/g/Q5wRRb.png)
