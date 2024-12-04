@@ -4,7 +4,7 @@
 ***
 
 ### 예시 이미지
-***
+
 1. 원본 이미지
 2. 옷과 배경을 추출한 이미지
 3. 추출한 이미지의 색상을 바꿔 원본에 적용한 이미지
@@ -13,7 +13,7 @@
 ![](https://ifh.cc/g/sdfbzR.png)
 ![](https://ifh.cc/g/Q5wRRb.png)
 ![](https://ifh.cc/g/27HcM0.png)
-
+***
 ### 사용한 패키지 및 버전
 ***   
 1.openCV2 (install 필요, python 에서 작동하므로 ``` pip install opencv-python ```로 작성필요)      
